@@ -1,0 +1,2 @@
+#!/bon/bash
+echo $((2#$BINARY))
